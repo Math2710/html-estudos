@@ -50,7 +50,7 @@ As imagens e mídias usadas pelos exercícios ficam em [`assets/`](assets/).
 | [css-estudos](https://github.com/Math2710/css-estudos) | CSS — cores, tipografia, layout e componentes |
 | [java-estudos](https://github.com/Math2710/java-estudos) | Fundamentos de Java e orientação a objetos |
 | [python-estudos](https://github.com/Math2710/python-estudos) | Fundamentos de Python — tipos, operadores e laços |
-| [estudos-csharp](https://github.com/Math2710/estudos-csharp) | Fundamentos de C# e .NET |
+| [csharp-estudos](https://github.com/Math2710/csharp-estudos) | Fundamentos de C# e .NET |
 
 ## Autor
 
